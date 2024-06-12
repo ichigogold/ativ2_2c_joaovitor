@@ -1,0 +1,4 @@
+body{ background-color: aqua;}
+@media screen and (min-width:600px){
+    .part1 {color: red;font-size: 150%;}
+}
